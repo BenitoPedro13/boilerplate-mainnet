@@ -4,8 +4,8 @@
 
 @font-face {
   font-family: 'Balgin Black SmCondensed';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBlackSmCondensedBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBlackSmCondensedBold.woff') format('woff');
+  src: url('/fonts/BalginBlackSmCondensedBold.woff2') format('woff2'),
+      url('/fonts/BalginBlackSmCondensedBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -13,8 +13,8 @@
 
 @font-face {
   font-family: 'Balgin';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBold.woff') format('woff');
+  src: url('/fonts/BalginBold.woff2') format('woff2'),
+      url('/fonts/BalginBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -22,8 +22,8 @@
 
 @font-face {
   font-family: 'Balgin Expanded';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginExpandedBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginExpandedBold.woff') format('woff');
+  src: url('/fonts/BalginExpandedBold.woff2') format('woff2'),
+      url('/fonts/BalginExpandedBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -31,8 +31,8 @@
 
 @font-face {
   font-family: 'Balgin';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBlackBoldItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBlackBoldItalic.woff') format('woff');
+  src: url('/fonts/BalginBlackBoldItalic.woff2') format('woff2'),
+      url('/fonts/BalginBlackBoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -40,8 +40,8 @@
 
 @font-face {
   font-family: 'Balgin';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBlackBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBlackBold.woff') format('woff');
+  src: url('/fonts/BalginBlackBold.woff2') format('woff2'),
+      url('/fonts/BalginBlackBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -49,8 +49,8 @@
 
 @font-face {
   font-family: 'Balgin Black Expanded';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBlackExpandedBoldItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBlackExpandedBoldItalic.woff') format('woff');
+  src: url('/fonts/BalginBlackExpandedBoldItalic.woff2') format('woff2'),
+      url('/fonts/BalginBlackExpandedBoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -58,8 +58,8 @@
 
 @font-face {
   font-family: 'Balgin Black Expanded';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBlackExpandedBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBlackExpandedBold.woff') format('woff');
+  src: url('/fonts/BalginBlackExpandedBold.woff2') format('woff2'),
+      url('/fonts/BalginBlackExpandedBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -67,8 +67,8 @@
 
 @font-face {
   font-family: 'Balgin Black SmCondensed';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBlackSmCondensedBoldItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBlackSmCondensedBoldItalic.woff') format('woff');
+  src: url('/fonts/BalginBlackSmCondensedBoldItalic.woff2') format('woff2'),
+      url('/fonts/BalginBlackSmCondensedBoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -76,8 +76,8 @@
 
 @font-face {
   font-family: 'Balgin SmCondensed';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginSmCondensedBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginSmCondensedBold.woff') format('woff');
+  src: url('/fonts/BalginSmCondensedBold.woff2') format('woff2'),
+      url('/fonts/BalginSmCondensedBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -85,8 +85,8 @@
 
 @font-face {
   font-family: 'Balgin Display';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayExtraBoldBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayExtraBoldBold.woff') format('woff');
+  src: url('/fonts/BalginDisplayExtraBoldBold.woff2') format('woff2'),
+      url('/fonts/BalginDisplayExtraBoldBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -94,8 +94,8 @@
 
 @font-face {
   font-family: 'Balgin Display';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayBlackBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayBlackBold.woff') format('woff');
+  src: url('/fonts/BalginDisplayBlackBold.woff2') format('woff2'),
+      url('/fonts/BalginDisplayBlackBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -103,8 +103,8 @@
 
 @font-face {
   font-family: 'Balgin Display';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayBold.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayBold.woff') format('woff');
+  src: url('/fonts/BalginDisplayBold.woff2') format('woff2'),
+      url('/fonts/BalginDisplayBold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -112,8 +112,8 @@
 
 @font-face {
   font-family: 'Balgin Display';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayRegular.woff') format('woff');
+  src: url('/fonts/BalginDisplayRegular.woff2') format('woff2'),
+      url('/fonts/BalginDisplayRegular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -121,8 +121,8 @@
 
 @font-face {
   font-family: 'Balgin Display';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayLightRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayLightRegular.woff') format('woff');
+  src: url('/fonts/BalginDisplayLightRegular.woff2') format('woff2'),
+      url('/fonts/BalginDisplayLightRegular.woff') format('woff');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -130,8 +130,8 @@
 
 @font-face {
   font-family: 'Balgin Display';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayExtraLightRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayExtraLightRegular.woff') format('woff');
+  src: url('/fonts/BalginDisplayExtraLightRegular.woff2') format('woff2'),
+      url('/fonts/BalginDisplayExtraLightRegular.woff') format('woff');
   font-weight: 200;
   font-style: normal;
   font-display: swap;
@@ -139,8 +139,8 @@
 
 @font-face {
   font-family: 'Balgin Display';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayMediumRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginDisplayMediumRegular.woff') format('woff');
+  src: url('/fonts/BalginDisplayMediumRegular.woff2') format('woff2'),
+      url('/fonts/BalginDisplayMediumRegular.woff') format('woff');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -148,8 +148,8 @@
 
 @font-face {
   font-family: 'Balgin Bold SmCondensed';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBoldSmCondensedBoldItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBoldSmCondensedBoldItalic.woff') format('woff');
+  src: url('/fonts/BalginBoldSmCondensedBoldItalic.woff2') format('woff2'),
+      url('/fonts/BalginBoldSmCondensedBoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -157,8 +157,8 @@
 
 @font-face {
   font-family: 'Balgin';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBoldBoldItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBoldBoldItalic.woff') format('woff');
+  src: url('/fonts/BalginBoldBoldItalic.woff2') format('woff2'),
+      url('/fonts/BalginBoldBoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -166,8 +166,8 @@
 
 @font-face {
   font-family: 'Balgin Bold Expanded';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginBoldExpandedBoldItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginBoldExpandedBoldItalic.woff') format('woff');
+  src: url('/fonts/BalginBoldExpandedBoldItalic.woff2') format('woff2'),
+      url('/fonts/BalginBoldExpandedBoldItalic.woff') format('woff');
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -175,8 +175,8 @@
 
 @font-face {
   font-family: 'Balgin Extra Light SmCondensed';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightSmCondensedItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightSmCondensedItalic.woff') format('woff');
+  src: url('/fonts/BalginExtraLightSmCondensedItalic.woff2') format('woff2'),
+      url('/fonts/BalginExtraLightSmCondensedItalic.woff') format('woff');
   font-weight: 200;
   font-style: italic;
   font-display: swap;
@@ -184,8 +184,8 @@
 
 @font-face {
   font-family: 'Balgin';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginLightItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginLightItalic.woff') format('woff');
+  src: url('/fonts/BalginLightItalic.woff2') format('woff2'),
+      url('/fonts/BalginLightItalic.woff') format('woff');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -193,8 +193,8 @@
 
 @font-face {
   font-family: 'Balgin';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginLightRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginLightRegular.woff') format('woff');
+  src: url('/fonts/BalginLightRegular.woff2') format('woff2'),
+      url('/fonts/BalginLightRegular.woff') format('woff');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -202,8 +202,8 @@
 
 @font-face {
   font-family: 'Balgin Light Expanded';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginLightExpandedRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginLightExpandedRegular.woff') format('woff');
+  src: url('/fonts/BalginLightExpandedRegular.woff2') format('woff2'),
+      url('/fonts/BalginLightExpandedRegular.woff') format('woff');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -211,8 +211,8 @@
 
 @font-face {
   font-family: 'Balgin Extra';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightItalic.woff') format('woff');
+  src: url('/fonts/BalginExtraLightItalic.woff2') format('woff2'),
+      url('/fonts/BalginExtraLightItalic.woff') format('woff');
   font-weight: 200;
   font-style: italic;
   font-display: swap;
@@ -220,8 +220,8 @@
 
 @font-face {
   font-family: 'Balgin Light Expanded';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginLightExpandedItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginLightExpandedItalic.woff') format('woff');
+  src: url('/fonts/BalginLightExpandedItalic.woff2') format('woff2'),
+      url('/fonts/BalginLightExpandedItalic.woff') format('woff');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -229,8 +229,8 @@
 
 @font-face {
   font-family: 'Balgin Extra Light Expanded';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightExpandedItalic.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightExpandedItalic.woff') format('woff');
+  src: url('/fonts/BalginExtraLightExpandedItalic.woff2') format('woff2'),
+      url('/fonts/BalginExtraLightExpandedItalic.woff') format('woff');
   font-weight: 200;
   font-style: italic;
   font-display: swap;
@@ -238,8 +238,8 @@
 
 @font-face {
   font-family: 'Balgin Extra';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightRegular.woff') format('woff');
+  src: url('/fonts/BalginExtraLightRegular.woff2') format('woff2'),
+      url('/fonts/BalginExtraLightRegular.woff') format('woff');
   font-weight: 200;
   font-style: normal;
   font-display: swap;
@@ -247,8 +247,8 @@
 
 @font-face {
   font-family: 'Balgin Extra Light Expanded';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightExpandedRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightExpandedRegular.woff') format('woff');
+  src: url('/fonts/BalginExtraLightExpandedRegular.woff2') format('woff2'),
+      url('/fonts/BalginExtraLightExpandedRegular.woff') format('woff');
   font-weight: 200;
   font-style: normal;
   font-display: swap;
@@ -256,8 +256,8 @@
 
 @font-face {
   font-family: 'Balgin Display';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginDisplaySemiBoldRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginDisplaySemiBoldRegular.woff') format('woff');
+  src: url('/fonts/BalginDisplaySemiBoldRegular.woff2') format('woff2'),
+      url('/fonts/BalginDisplaySemiBoldRegular.woff') format('woff');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -265,181 +265,10 @@
 
 @font-face {
   font-family: 'Balgin Extra Light SmCondensed';
-  src: url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightSmCondensedRegular.woff2') format('woff2'),
-      url('/fonts/subset-FONTSPRINGDEMO-BalginExtraLightSmCondensedRegular.woff') format('woff');
+  src: url('/fonts/BalginExtraLightSmCondensedRegular.woff2') format('woff2'),
+      url('/fonts/BalginExtraLightSmCondensedRegular.woff') format('woff');
   font-weight: 200;
   font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Extra';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightItalic.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightItalic.woff') format('woff');
-  font-weight: 200;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Extra Light SmCondensed';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightSmCondensedItalic.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightSmCondensedItalic.woff') format('woff');
-  font-weight: 200;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Extra Light SmCondensed';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightSmCondensedRegular.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightSmCondensedRegular.woff') format('woff');
-  font-weight: 200;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Extra Light Expanded';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightExpandedItalic.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightExpandedItalic.woff') format('woff');
-  font-weight: 200;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Extra';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightRegular.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightRegular.woff') format('woff');
-  font-weight: 200;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Display';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginDisplayMediumRegular.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginDisplayMediumRegular.woff') format('woff');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Display';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginDisplaySemiBoldRegular.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginDisplaySemiBoldRegular.woff') format('woff');
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Display';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginDisplayExtraLightRegular.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginDisplayExtraLightRegular.woff') format('woff');
-  font-weight: 200;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Display';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginDisplayLightRegular.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginDisplayLightRegular.woff') format('woff');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Display';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginDisplayExtraBoldBold.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginDisplayExtraBoldBold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Display';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginDisplayBold.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginDisplayBold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Extra Light Expanded';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightExpandedRegular.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginExtraLightExpandedRegular.woff') format('woff');
-  font-weight: 200;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Display';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginDisplayBlackBold.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginDisplayBlackBold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Display';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginDisplayRegular.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginDisplayRegular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginBoldBoldItalic.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginBoldBoldItalic.woff') format('woff');
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Expanded';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginExpandedBold.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginExpandedBold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin SmCondensed';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginSmCondensedBold.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginSmCondensedBold.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Bold Expanded';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginBoldExpandedBoldItalic.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginBoldExpandedBoldItalic.woff') format('woff');
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Balgin Bold SmCondensed';
-  src: url('fonts/subset-FONTSPRINGDEMO-BalginBoldSmCondensedBoldItalic.woff2') format('woff2'),
-      url('fonts/subset-FONTSPRINGDEMO-BalginBoldSmCondensedBoldItalic.woff') format('woff');
-  font-weight: bold;
-  font-style: italic;
   font-display: swap;
 }
 
