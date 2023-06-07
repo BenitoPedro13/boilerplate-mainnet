@@ -12,7 +12,7 @@ const Features = () => {
               <h3 className={`w-full h-fit font-semibold text-sm text-primary-700 text-center ${jakarta.className}`}>
                 Features
               </h3>
-              <h2 className=''>Analytics that feels like it’s from the future</h2>
+              <h2 className="font-[Balgin] font-semibold text-3xl leading-[38px] text-center">Analytics that feels like it’s from the future</h2>
             </div>
 						<p className="w-full h-fit font-normal text-lg text-center text-gray-600">
 							Powerful, self-serve product and growth analytics to help you
