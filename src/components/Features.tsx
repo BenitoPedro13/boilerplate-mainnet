@@ -1,4 +1,5 @@
 import { Plus_Jakarta_Sans } from "next/font/google";
+import Image from "next/image";
 
 export const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"] });
 
@@ -8,10 +9,6 @@ import messageChatCircle from "@/../public/message-chat-circle.svg";
 import messageHeartCircle from "@/../public/message-heart-circle.svg";
 import messageSmileCircle from "@/../public/message-smile-circle.svg";
 import zap from "@/../public/zap.svg";
-
-
-import Image from "next/image";
-
 const Features = () => {
 	return (
 		<section className="flex flex-col items-center py-16 gap-12 w-full h-fit bg-white">
