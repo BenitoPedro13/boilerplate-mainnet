@@ -20,10 +20,15 @@ module.exports = {
         'gray-700': '#344054',
         'gray-900': '#101828',
         'primary-600': '#7f56d9',
+        'primary-700': '#FF77EF',
       },
       boxShadow: {
         'header': '0px 4px 4px rgba(0, 0, 0, 0.25);',
         'xs': '0px 1px 2px rgba(16, 24, 40, 0.05);',
+      },
+      fontFamily: {
+        'Balgin': 'Balgin',
+        'Balgin Expanded': 'Balgin Expanded'
       }
     },
   },
