@@ -14,9 +14,15 @@ module.exports = {
       },
       colors: {
         'gray-100': '#f2f4f7',
+        'gray-300': '#d0d5dd',
+        'gray-600': '#475467',
+        'gray-700': '#344054',
+        'gray-900': '#101828',
+        'primary-600': '#7f56d9',
       },
       boxShadow: {
         'header': '0px 4px 4px rgba(0, 0, 0, 0.25);',
+        'xs': '0px 1px 2px rgba(16, 24, 40, 0.05);',
       }
     },
   },
