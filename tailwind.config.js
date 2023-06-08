@@ -31,7 +31,7 @@ module.exports = {
       },
       fontFamily: {
         'Balgin': 'Balgin',
-        'Balgin Expanded': 'Balgin Expanded'
+        'Balgin-Expanded': 'Balgin Expanded'
       }
     },
   },
