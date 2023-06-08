@@ -105,9 +105,15 @@ const FaqSection = (props: Props) => {
         <div className="box-border flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 gap-8 px-4">
           <div className="box-border flex flex-col justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative gap-6 px-5 py-8 rounded-2xl bg-gray-50">
             <div className="box-border block flex-grow-0 flex-shrink-0 w-[120px] h-14 relative">
-              <div className="box-border flex flex-col justify-center items-center w-12 h-12 absolute top-2 left-0 rounded-[200px] bg-[#abb677] border-[1.5px] border-white" />
-              <div className="box-border flex flex-col justify-center items-center w-12 h-12 absolute top-2 left-[72px] rounded-[200px] bg-[#d9b9bb] border-[1.5px] border-white" />
-              <div className="box-border flex flex-col justify-center items-center w-14 h-14 absolute top-0 left-8 rounded-[200px] bg-[#c7b9da] border-[1.5px] border-white" />
+              <div className="box-border flex flex-col justify-center items-center w-12 h-12 absolute top-2 left-0 rounded-[200px] bg-[#abb677] border-[1.5px] border-white">
+                <img alt="Testimonial Avatar" loading="lazy" width="64" height="64" decoding="async" data-nimg="1" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=128&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=128&amp;q=75" />
+              </div>
+              <div className="box-border flex flex-col justify-center items-center w-12 h-12 absolute top-2 left-[72px] rounded-[200px] bg-[#d9b9bb] border-[1.5px] border-white">
+                <img alt="Testimonial Avatar" loading="lazy" width="64" height="64" decoding="async" data-nimg="1" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=128&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=128&amp;q=75" />
+              </div>
+              <div className="box-border flex flex-col justify-center items-center w-14 h-14 absolute top-0 left-8 rounded-[200px] bg-[#c7b9da] border-[1.5px] border-white" >
+                <img alt="Testimonial Avatar" loading="lazy" width="64" height="64" decoding="async" data-nimg="1" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=128&amp;q=75 2x" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftestimonial-avatar.de460634.png&amp;w=128&amp;q=75" />
+              </div>
             </div>
             <div className="box-border flex flex-col justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative gap-2">
               <p className="whitespace-pre-wrap flex-grow-0 flex-shrink-0 self-stretch font-['Balgin'] text-xl leading-[30px] font-bold text-center text-[#101828]">
