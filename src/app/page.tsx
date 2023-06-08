@@ -3,6 +3,7 @@ import FaqSection from "@/components/FaqSection";
 import Features from "@/components/Features";
 import Features2 from "@/components/Features2";
 import Hero from "@/components/Hero";
+import MetricsSection from "@/components/MetricsSection";
 import SocialProof from "@/components/SocialProof";
 import Testimonials from "@/components/Testimonials";
 
@@ -18,7 +19,7 @@ export default function Home() {
       <Divider/>
       <FaqSection/>
       <Divider/>
-      
+      <MetricsSection />
     </main>
   )
 }
