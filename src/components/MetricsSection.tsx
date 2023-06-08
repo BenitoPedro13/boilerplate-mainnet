@@ -4,7 +4,7 @@ interface Props {}
 
 const MetricsSection = (props: Props) => {
   return (
-    <div className="box-border flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 w-[375px] h-[1420px]">
+    <div className="box-border flex flex-col justify-start items-start flex-grow-0 flex-shrink-0 w-full h-fit">
       <div className="box-border flex flex-col justify-start items-center self-stretch flex-grow-0 flex-shrink-0 gap-12 py-16 bg-white">
         <div className="box-border flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 gap-8 px-4">
           <div className="box-border flex flex-col justify-start items-start self-stretch flex-grow-0 flex-shrink-0 gap-12">
