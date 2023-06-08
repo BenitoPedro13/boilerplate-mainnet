@@ -21,6 +21,31 @@
 }
 
 @font-face {
+  font-family: 'Balgin';
+  src: url('/fonts/BalginBold.woff2') format('woff2'),
+      url('/fonts/BalginBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Balgin Text';
+  src: url('/fonts/BalgintextBold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Balgin Text';
+  src: url('/fonts/BalgintextRegular.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
   font-family: 'Balgin Expanded';
   src: url('/fonts/BalginExpandedBold.woff2') format('woff2'),
       url('/fonts/BalginExpandedBold.woff') format('woff');

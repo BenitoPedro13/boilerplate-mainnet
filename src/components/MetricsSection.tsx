@@ -1,4 +1,4 @@
-import whiteBoardCalendar from "@/../public/Image-1.png";
+import whiteBoardCalendar from "@/../public/Image-2.png";
 import Image from "next/image";
 interface Props {}
 
