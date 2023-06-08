@@ -1,4 +1,5 @@
 import Divider from "@/components/Divider";
+import FaqSection from "@/components/FaqSection";
 import Features from "@/components/Features";
 import Features2 from "@/components/Features2";
 import Hero from "@/components/Hero";
@@ -15,6 +16,9 @@ export default function Home() {
       <Testimonials/>
       <Features2/>
       <Divider/>
+      <FaqSection/>
+      <Divider/>
+      
     </main>
   )
 }
