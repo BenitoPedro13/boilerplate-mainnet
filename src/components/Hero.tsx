@@ -1,7 +1,7 @@
 import heroMobileImage from "@/../public/hero-mobile-image-512w.png";
 import playCircle from "@/../public/PlayCircle.svg";
 import heroDesktopImage from "@/../public/hero-desktop-image.png";
-import arrowRight from "@/../public/arrow-right-1.svg"
+import arrowRight from "@/../public/arrow-right-1.svg";
 import style from "@/style/hero.module.css";
 import Image from "next/image";
 
@@ -19,18 +19,27 @@ const Hero = () => {
               <div className="flex flex-col items-center gap-4 w-full h-fit">
                 <div className="flex items-center p-1 gap-3 w-fit h-8 bg-primary-50 bg-blend-multiply rounded-2xl">
                   <div className="flex items-center py-[2px] px-[10px] w-fit h-fit bg-white bg-blend-normal rounded-2xl">
-                    <p className="text-primary-700 text-center text-sm font-medium">
-                      New feature
-                    </p>
+                    <button>
+                      <p className="text-primary-700 text-center text-sm font-medium">
+                        New feature
+                      </p>
+                    </button>
                   </div>
-                  <div className="flex items-center gap-1 w-fit h-fit">
-                    <p className="text-primary-700 text-sm font-medium">
-                      Check out the team dashboard
-                    </p>
-                    <Image src={arrowRight} width={16} height={16} alt="Arrow Right Icon" />
-                  </div>
+                  <button className="flex items-center gap-1 w-fit h-fit">
+                      <p className="text-primary-700 text-sm font-medium">
+                        Check out the team dashboard
+                      </p>
+                      <Image
+                        src={arrowRight}
+                        width={16}
+                        height={16}
+                        alt="Arrow Right Icon"
+                      />
+                  </button>
                 </div>
-                <h1 className="font-['Balgin'] font-bold text-6xl leading-[72px] text-center text-gray-900">Beautiful analytics to grow smarter</h1>
+                <h1 className="font-['Balgin'] font-bold text-6xl leading-[72px] text-center text-gray-900">
+                  Beautiful analytics to grow smarter
+                </h1>
               </div>
               <p className="text-xl leading-[30px] text-center text-gray-600 w-full max-w-3xl">
                 Powerful, self-serve product and growth analytics to help you
