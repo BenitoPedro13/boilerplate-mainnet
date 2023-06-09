@@ -35,21 +35,21 @@ const Features = () => {
 				</div>
 			</div>
 			<div className="flex flex-col items-start px-4 w-full h-fit lg:px-8 lg:gap-8 max-w-7xl">
-				<div className="flex flex-col items-start p-0 gap-10 w-full h-fit">
-					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit">
-						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px]">
-							<div className="w-5 h-5">
+				<div className="flex flex-row items-start justify-center p-0 gap-10 w-full h-fit lg:gap-8 flex-wrap">
+					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit max-w-[384px]">
+						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
+							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
 									src={messageChatCircle}
-									width={20}
-									height={20}
+									width={28}
+									height={28}
 									alt="Message Chat Circle Icon"
 								/>
 							</div>
 						</div>
-						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit">
+						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900`}
+								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Share team inboxes
 							</p>
@@ -59,20 +59,20 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit">
-						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px]">
-							<div className="w-5 h-5">
+					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
+							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
 									src={zap}
-									width={20}
-									height={20}
+									width={28}
+									height={28}
 									alt="Zap Icon"
 								/>
 							</div>
 						</div>
-						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit">
+						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900`}
+								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Deliver instant answers
 							</p>
@@ -82,20 +82,20 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit">
-						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px]">
-							<div className="w-5 h-5">
+					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
+							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
 									src={chartBreakoutSquare}
-									width={20}
-									height={20}
+									width={28}
+									height={28}
 									alt="Chart Breakout Square Icon"
 								/>
 							</div>
 						</div>
-						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit">
+						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900`}
+								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Manage your team with reports
 							</p>
@@ -106,20 +106,20 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit">
-						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px]">
-							<div className="w-5 h-5">
+					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
+							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
 									src={messageSmileCircle}
-									width={20}
-									height={20}
+									width={28}
+									height={28}
 									alt="Message Smile Circle Icon"
 								/>
 							</div>
 						</div>
-						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit">
+						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900`}
+								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Connect with customers
 							</p>
@@ -130,20 +130,20 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit">
-						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px]">
-							<div className="w-5 h-5">
+					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
+							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
 									src={command}
-									width={20}
-									height={20}
+									width={28}
+									height={28}
 									alt="Command Icon"
 								/>
 							</div>
 						</div>
-						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit">
+						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900`}
+								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Connect the tools you already use
 							</p>
@@ -154,20 +154,20 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit">
-						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px]">
-							<div className="w-5 h-5">
+					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
+							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
 									src={messageHeartCircle}
-									width={20}
-									height={20}
+									width={28}
+									height={28}
 									alt="Message Heart Circle Icon"
 								/>
 							</div>
 						</div>
-						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit">
+						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900`}
+								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Our people make the difference
 							</p>
