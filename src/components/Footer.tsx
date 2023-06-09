@@ -2,7 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 
 import logo from '@/../public/logo.svg';
-import { jakarta } from "./Features";
+import { Plus_Jakarta_Sans } from "next/font/google";
+const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"] });
 
 interface Props {}
 

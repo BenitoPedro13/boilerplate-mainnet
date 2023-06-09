@@ -1,6 +1,8 @@
 import Image from "next/image"
 
-import { jakarta } from "./Features"
+import { Plus_Jakarta_Sans } from "next/font/google";
+const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"] });
+
 
 import companyLogo6 from '@/../public/company-logo-6.svg'
 import testimonialAvatar from '@/../public/testimonial-avatar.png'

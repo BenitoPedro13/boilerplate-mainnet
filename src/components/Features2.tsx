@@ -1,7 +1,7 @@
 import { Plus_Jakarta_Sans } from "next/font/google";
 import Image from "next/image";
 
-export const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"] });
+const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"] });
 
 import arrowRight from '@/../public/arrow-right.svg';
 import chartBreakoutSquare from "@/../public/chart-breakout-square.svg";
