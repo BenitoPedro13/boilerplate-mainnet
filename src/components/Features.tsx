@@ -1,7 +1,8 @@
-import { Plus_Jakarta_Sans } from "next/font/google";
+import { Inter, Plus_Jakarta_Sans } from "next/font/google";
 import Image from "next/image";
 
 const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"] });
+const inter = Inter({ subsets: ['latin'] })
 
 import chartBreakoutSquare from "@/../public/chart-breakout-square.svg";
 import command from "@/../public/command.svg";
@@ -11,21 +12,21 @@ import messageSmileCircle from "@/../public/message-smile-circle.svg";
 import zap from "@/../public/zap.svg";
 const Features = () => {
 	return (
-		<section className="flex flex-col items-center py-16 gap-12 w-full h-fit bg-white">
-			<div className="flex flex-col items-start px-4 gap-8 w-full h-fit">
+		<section className="flex flex-col items-center py-16 gap-12 w-full h-fit bg-white lg:py-24 lg:gap-16">
+			<div className="flex flex-col items-start px-4 gap-8 w-full h-fit lg:px-8 lg:gap-8 max-w-7xl">
 				<div className="flex flex-col items-center p-0 gap-12 w-full h-fit">
-					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit">
+					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit lg:gap-5 max-w-3xl">
 						<div className="flex flex-col items-start p-0 gap-3 w-full h-fit">
 							<h3
-								className={`w-full h-fit font-semibold text-sm text-primary-700 text-center ${jakarta.className}`}
+								className={`w-full h-fit font-semibold text-sm text-primary-700 text-center font-Jakarta lg:font-Inter lg:text-base`}
 							>
 								Features
 							</h3>
-							<h2 className="w-full h-fit font-[Balgin] font-semibold text-3xl leading-[38px] text-center text-gray-900">
+							<h2 className={`w-full h-fit font-Balgin font-semibold text-3xl leading-[38px] text-center text-gray-900 lg:font-Inter lg:text-4xl lg:leading-[40px]`}>
 								Analytics that feels like it’s from the future
 							</h2>
 						</div>
-						<p className="w-full h-fit font-normal text-lg text-center text-gray-600">
+						<p className="w-full h-fit font-normal text-lg text-center text-gray-600 lg:text-xl leading-[30px]">
 							Powerful, self-serve product and growth analytics to help you
 							convert, engage, and retain more users. Trusted by over 4,000
 							startups.
@@ -33,7 +34,7 @@ const Features = () => {
 					</div>
 				</div>
 			</div>
-			<div className="flex flex-col items-start px-4 w-full h-fit">
+			<div className="flex flex-col items-start px-4 w-full h-fit lg:px-8 lg:gap-8 max-w-7xl">
 				<div className="flex flex-col items-start p-0 gap-10 w-full h-fit">
 					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit">
 						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px]">
