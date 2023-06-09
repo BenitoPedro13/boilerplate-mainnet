@@ -329,7 +329,7 @@ const Footer = (props: Props) => {
               </div>
             </div>
             <p className="whitespace-pre-wrap flex-grow-0 flex-shrink-0 self-stretch text-base leading-6 text-left text-[#667085]">
-              © 2077 Untitled UI. All rights reserved.
+              © 2023 Untitled UI. All rights reserved.
             </p>
           </div>
         </div>
