@@ -49,7 +49,7 @@ const Features = () => {
 						</div>
 						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
+								className={`font-jakarta lg:font-Balgin font-semibold text-lg text-center text-gray-900 lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Share team inboxes
 							</p>
@@ -59,7 +59,7 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit max-w-[384px]">
 						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
 							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
@@ -72,7 +72,7 @@ const Features = () => {
 						</div>
 						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
+								className={`font-jakarta lg:font-Balgin font-semibold text-lg text-center text-gray-900 lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Deliver instant answers
 							</p>
@@ -82,7 +82,7 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit max-w-[384px]">
 						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
 							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
@@ -95,7 +95,7 @@ const Features = () => {
 						</div>
 						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
+								className={`font-jakarta lg:font-Balgin font-semibold text-lg text-center text-gray-900 lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Manage your team with reports
 							</p>
@@ -106,7 +106,7 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit max-w-[384px]">
 						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
 							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
@@ -119,7 +119,7 @@ const Features = () => {
 						</div>
 						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
+								className={`font-jakarta lg:font-Balgin font-semibold text-lg text-center text-gray-900 lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Connect with customers
 							</p>
@@ -130,7 +130,7 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit max-w-[384px]">
 						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
 							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
@@ -143,7 +143,7 @@ const Features = () => {
 						</div>
 						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
+								className={`font-jakarta lg:font-Balgin font-semibold text-lg text-center text-gray-900 lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Connect the tools you already use
 							</p>
@@ -154,7 +154,7 @@ const Features = () => {
 							</p>
 						</div>
 					</div>
-					<div className="flex flex-col items-center p-0 gap-4 w-full  lg:font-[Balgin]h-fit max-w-[384px]">
+					<div className="flex flex-col items-center p-0 gap-4 w-full h-fit max-w-[384px]">
 						<div className="flex justify-center items-center h-10 w-10 bg-primary-100 border-[6px] border-primary-50 rounded-[28px] lg:h-12 lg:w-12 lg:border-[8px]">
 							<div className="w-5 h-5 lg:w-7 lg:h-7">
 								<Image
@@ -167,7 +167,7 @@ const Features = () => {
 						</div>
 						<div className="flex flex-col items-center p-0 gap-1 w-full h-fit lg:gap-2">
 							<p
-								className={`${jakarta.className} font-semibold text-lg text-center text-gray-900 lg:font-[Balgin] lg:font-bold lg:text-xl lg:leading-[30px]`}
+								className={`font-jakarta lg:font-Balgin font-semibold text-lg text-center text-gray-900 lg:font-bold lg:text-xl lg:leading-[30px]`}
 							>
 								Our people make the difference
 							</p>
